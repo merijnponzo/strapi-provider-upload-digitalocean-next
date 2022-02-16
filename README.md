@@ -1,15 +1,15 @@
-# strapi-provider-upload-sharpdigitalocean-next
+# strapi-provider-upload-digitalocean-next
 
 Transforms every image to jpeg, should be optional though (needs to be fixed)
 
 ```
-yarn add strapi-provider-upload-sharpdigitalocean-next
+yarn add strapi-provider-upload-digitalocean-next
 ```
 
 or
 
 ```
-npm install strapi-provider-upload-sharpdigitalocean-next
+npm install strapi-provider-upload-digitalocean-next
 
 ```
 
