@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-upload-digitalocean-next",
-  "version": "4.0.71",
+  "version": "4.0.72",
   "description": "upload to digital ocean spaces for strapi 4",
   "directories": {
     "lib": "./lib"
